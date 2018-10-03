@@ -3,7 +3,7 @@ This project demonstrates how to use CSRF Tokens and Session IDs to validate ses
 
 Setup Requirements WAMP (for windows users) or LAMP (for Linux users) installed on your machines.
 
-Running the App Clone this repository. Use master branch !
+Running the App Clone this repository. Use master branch!
 
 Steps:
 
