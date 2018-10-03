@@ -1,4 +1,4 @@
-# synchronizer-token-pattern
+# Synchronizer Token Pattern
 This project demonstrates how to use CSRF Tokens and Session IDs to validate sessions and users using PHP.
 
 Setup Requirements:
