@@ -7,7 +7,7 @@ Running the App Clone this repository. Use master branch!
 
 Steps:
 
-Copy all the files in the directory. Paste the files in to a directory in the path /var/www/html (for LAMP users) Open a web browser and navigate to http://localhost/[directory name]/index.php
+Copy all the files in the directory. Paste the files in to a directory in the path /var/www/html (for LAMP users) Open a web browser and navigate to http://localhost/[directoryname]/index.php
 
 User :
 
