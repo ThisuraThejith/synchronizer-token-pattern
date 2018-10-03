@@ -20,3 +20,6 @@ Upon successful user login, the server generates a Session ID and a CSRF Token f
 Note: 
 
 Auto generated UUIDs are used for Session ID and CSRF Token.
+
+Blog:
+https://medium.com/@ttcphilips/securing-your-php-web-application-using-synchronizer-token-pattern-6f66104fbe3f
