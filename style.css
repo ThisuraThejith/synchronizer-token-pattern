@@ -1,0 +1,36 @@
+#home{
+	width:320px;
+	height:270px;
+	border:2px solid #69c773;
+	
+}
+
+.textprop{
+  font-family: fantasy;
+  font-size: 18px;
+}
+
+.textbox{
+  heighht:20px;	
+	width: 150px;
+	margin-left:10px;
+	border-bottom-style:ridge;
+	border-top:2px solid darked;
+	border-right:2px solid darked;
+	
+	
+}
+
+#but {
+	display: inline-block;
+	border-radius: 3px;
+	border:none;
+	font-size:0.9rem;
+	padding:0.6rem 2em;
+    color:white;
+    margin:0 0.25rem;
+    text-align:center;
+	background:red;
+	border-bottom:1px solid #999;
+	margin-bottom:10px;
+}
